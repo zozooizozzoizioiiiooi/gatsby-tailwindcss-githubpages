@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_tailwind_css_git_hub_pages=self.webpackChunkgatsby_tailwind_css_git_hub_pages||[]).push([[691],{7200:function(e,t,l){l.r(t),l.d(t,{Head:function(){return n}});var a=l(7294);t.default=()=>a.createElement("h1",{className:"text-3xl font-bold underline"},"Hello world!");const n=()=>a.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-794ec0cd3b33e07fd53d.js.map
